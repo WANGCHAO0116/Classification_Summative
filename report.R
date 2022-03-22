@@ -1,6 +1,7 @@
 install.packages("readr")
 install.packages("skimr")
 install.packages("mlr3verse")
+install.packages("ggplot2")
 install.packages("ggforce")
 install.packages("GGally")
 install.packages("tidyverse")
